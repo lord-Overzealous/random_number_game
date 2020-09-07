@@ -3,7 +3,7 @@ This project is a simple implementation of a Random number game.
 The goal is to guess a random number the game tell you if you'r guess is bigger or smaller of that the response
 
 # how to make it work
-The project only work if you start it in your terminal. Find the main.py file and start it.
+The project only work if you start it in your terminal. Find the numberGuess.py file and start it.
 
 # how can i improve
 1. Put some GUI 
